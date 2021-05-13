@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployment link: https://nostalgic-lewin-5c8613.netlify.app/
+Deployment link: https://cranky-colden-8c9c27.netlify.app/
 
 ## Available Scripts
 
